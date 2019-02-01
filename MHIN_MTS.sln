@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{ADE5FA8C-2E5C-42F7-83F8-B2CC436003DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{F478A8C1-6429-4486-8DA7-42A857CACFF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "PrinterManager\Printer.csproj", "{D2F6B9E0-85BF-4490-BEAB-D04C387ADBEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{ADE5FA8C-2E5C-42F7-83F8-B2CC436003DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADE5FA8C-2E5C-42F7-83F8-B2CC436003DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADE5FA8C-2E5C-42F7-83F8-B2CC436003DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F478A8C1-6429-4486-8DA7-42A857CACFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F478A8C1-6429-4486-8DA7-42A857CACFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F478A8C1-6429-4486-8DA7-42A857CACFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F478A8C1-6429-4486-8DA7-42A857CACFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F6B9E0-85BF-4490-BEAB-D04C387ADBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F6B9E0-85BF-4490-BEAB-D04C387ADBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F6B9E0-85BF-4490-BEAB-D04C387ADBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F6B9E0-85BF-4490-BEAB-D04C387ADBEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
